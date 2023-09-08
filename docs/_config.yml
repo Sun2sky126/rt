@@ -2,3 +2,7 @@ remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
 sidebar:
   - doc_1
+  - label: doc_2_0
+    children:
+      - doc_2_1
+      - doc_2_2
