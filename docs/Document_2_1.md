@@ -6,6 +6,4 @@ sidebar_label: Sec 2.1
 
 ## 2.1 
 
-$$
-\boldsymbol{A} = \boldsymbol{B}^{-1}
-$$
+$$\boldsymbol{A} = \boldsymbol{B}^{-1}$$
